@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="AWSSDK.CloudWatchLogs" Version="3.7.409.11" />
       <PackageReference Include="BenchmarkDotNet" Version="0.14.0" />
       <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     </ItemGroup>
